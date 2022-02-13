@@ -1,11 +1,25 @@
 {
-  "posts": [
+  "headingSpan": "About",
+  "heading": "Easy To Manage All Your Data By Appo",
+  "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus. Dolores, dolorum?",
+  "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+  "aboutThumb": "/img/about.png",
+  "aboutData": [
     {
       "id": 1,
-      "title": "hello"
+      "linkClass": "btn btn-bordered",
+      "linkClassTwo": "btn btn-bordered text-white",
+      "iconClass": "icofont icofont-brand-android-robot dsp-tc",
+      "iconText": "GET IT ON",
+      "iconSpan": "Google Play"
+    },
+    {
+      "id": 2,
+      "linkClass": "btn btn-bordered",
+      "linkClassTwo": "btn btn-bordered text-white",
+      "iconClass": "icofont icofont-brand-apple dsp-tc",
+      "iconText": "AVAILABLE ON",
+      "iconSpan": "Apple Store"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
