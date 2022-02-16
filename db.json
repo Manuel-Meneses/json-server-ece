@@ -178,7 +178,7 @@
             },
             {
                 "id": 3,
-                "planClass": "single-price-plan featured",
+                "planClass": "single-price-plan",
                 "planTitle": "Guide Trip",
                 "planIcon": "/img/icons-03.png",
                 "planPrice": "$14",
