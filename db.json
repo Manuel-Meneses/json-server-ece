@@ -163,7 +163,7 @@
             },
             {
                 "id": 2,
-                "planClass": "single-price-plan",
+                "planClass": "single-price-plan-features",
                 "planTitle": "Challenging Route",
                 "planIcon": "/img/icons-02.png",
                 "planPrice": "$16",
