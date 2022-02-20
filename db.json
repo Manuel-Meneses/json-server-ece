@@ -4,25 +4,25 @@
             {
                 "id": 1,
                 "promoImage": "/img/promo_img_1.png",
-                "promoTitle": "Free Trail",
+                "promoTitle": "Custom classes",
                 "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
             },
             {
                 "id": 2,
                 "promoImage": "/img/promo_img_2.png",
-                "promoTitle": "Easy to use",
+                "promoTitle": "Community",
                 "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
             },
             {
                 "id": 3,
                 "promoImage": "/img/promo_img_3.png",
-                "promoTitle": "24/7 Support",
+                "promoTitle": "Learn by doing",
                 "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
             },
             {
                 "id": 4,
                 "promoImage": "/img/promo_img_4.png",
-                "promoTitle": "Well Documented",
+                "promoTitle": "Enjoy the culture",
                 "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
             }
         ],
