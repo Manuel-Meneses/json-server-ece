@@ -94,8 +94,8 @@
         "aboutData": [
             {
                 "id": 1,
-                "bntText": Know Us!,
-            }
+                "bntText": "Know Us!"
+            } 
         ]
     },
     "themeOneFeaturesSection": {
