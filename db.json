@@ -94,9 +94,7 @@
         "aboutData": [
             {
                 "id": 1,
-                "linkClass": "btn btn-bordered",
-                "linkClassTwo": "btn btn-bordered text-white",
-                "iconSpan": "Know us!"
+                "bntText": Know Us!,
             }
         ]
     },
