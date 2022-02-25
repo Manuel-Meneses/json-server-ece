@@ -5,25 +5,25 @@
                 "id": 1,
                 "promoImage": "/img/promo_img_1.png",
                 "promoTitle": "Custom classes",
-                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+                "promoText": "Enjoy lessons specially tailored to your own interests and needs."
             },
             {
                 "id": 2,
                 "promoImage": "/img/promo_img_2.png",
                 "promoTitle": "Community",
-                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+                "promoText": "Share and talk about your favorite topics with a community of people just as passionate about Spanish as your are."
             },
             {
                 "id": 3,
                 "promoImage": "/img/promo_img_3.png",
                 "promoTitle": "Learn by doing",
-                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+                "promoText": "Navigate Spanish by actually using and speaking if and not just by theory and grammar."
             },
             {
                 "id": 4,
                 "promoImage": "/img/promo_img_4.png",
                 "promoTitle": "Enjoy the culture",
-                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+                "promoText": "Immerse yourself in the Hispanic culture through its language."
             }
         ],
         "promoDataTwo": [
